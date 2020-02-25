@@ -4,7 +4,7 @@ An NTNU thesis LaTeX document class for bachelor, master, and PhD theses. It rep
 
 ## Setting up
 
-You can use the template with [Overleaf](http://overleaf.com), and you are strongly encouraged to do so. The alternative is to install local copy of LaTeX on your laptop (not adviced, huge, difficult).
+You can use the template with [Overleaf](http://overleaf.com), and you are strongly encouraged to do so. The alternative is to install local copy of LaTeX on your laptop (not advised, huge, difficult).
 
 You should **fork** the COPCSE repo so that you have your own files to edit and you can always merge with the upstream changes to the template, in case the template is updated. 
 
